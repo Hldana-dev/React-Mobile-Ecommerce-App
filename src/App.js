@@ -11,6 +11,8 @@ function App() {
       <Navigation />
       <Home />
 
+       This is an update after deplayment
+
 
     </div>
   );
